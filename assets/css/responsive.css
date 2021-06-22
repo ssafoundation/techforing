@@ -1,0 +1,517 @@
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .call-to-action-image img {
+        width: 100%;
+        padding: 30px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .mobile-show {
+        display: block;
+    }
+
+    .desktop-show {
+        display: none;
+    }
+
+    .company-logo img {
+        margin-bottom: 30px;
+        width: 140px;
+    }
+
+    section {
+        padding: 0px 10px;
+    }
+
+    .pricing-service-name {
+        width: 28%;
+
+    }
+
+    .pricing-package-info-wrap {
+        width: 72%;
+    }
+
+    .call-to-action-image img {
+        width: 60%;
+        padding: 60px;
+        margin: 0 auto;
+    }
+
+    .call-to-action-image {
+        text-align: center;
+    }
+
+    .call-to-action-content {
+        padding: 30px 18%;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .mobile-show {
+        display: block;
+        padding: 6px 5px;
+        font-size: 13px;
+    }
+
+    .desktop-show {
+        display: none;
+    }
+
+    .navbar-brand img {
+        width: 115px;
+    }
+
+    header.header-main-wrap {
+        width: 96%;
+        margin: 0 auto;
+    }
+
+    .company-logo img {
+        width: 140px;
+        margin-bottom: 30px;
+    }
+
+    .section-title h3 {
+        font-size: 24px;
+    }
+
+    section {
+        padding: 0px 10px;
+    }
+
+    .service-card p {
+        font-size: 14px;
+    }
+
+    .counter-card .row {
+        display: block;
+        text-align: center;
+    }
+
+    .counter-card .row .col-2 {
+        width: 100%;
+    }
+
+    .counter-card .row .col-10 {
+        width: 100%;
+    }
+
+    .counter-card .card-body {
+        padding: 5px 0% 0% 38%;
+        text-align: left;
+    }
+
+    .pricing-package-info-wrap {
+        width: 70%;
+    }
+
+    .pricing-service-name {
+        width: 30%;
+        background: #f3f7fc;
+    }
+
+    .pricing-package-info {
+        width: 90%;
+    }
+
+    .pricing-service-name ul li {
+        font-size: 12px;
+    }
+
+    .service-card h5 {
+        font-size: 18px;
+    }
+
+    .pricing-service-name ul {
+        padding-top: 0;
+    }
+
+    .package-dec p {
+        text-align: left;
+        font-size: 13px;
+    }
+
+    .package-dec ul li {
+        font-size: 14px;
+    }
+
+    .package-dec img {
+        width: 24px !important;
+        margin: 0 auto;
+    }
+
+    .call-to-action-content {
+        padding: 30px 0%;
+    }
+
+    .hero-content h1 {
+        margin-bottom: 20px;
+        font-size: 18px;
+    }
+
+    .hero-content p {
+        font-size: 14px;
+    }
+
+    .simple-report-content ul li {
+        margin-bottom: 20px;
+        font-size: 14px;
+        padding-left: 35px;
+    }
+
+    .simple-report-content ul li:after {
+        top: 20%;
+    }
+
+    .call-to-action-image img {
+        width: 75%;
+        padding: 60px;
+        margin: 0 auto;
+    }
+
+    .call-to-action-image {
+        text-align: center;
+    }
+
+    .call-to-action-content {
+        padding: 30px 18%;
+    }
+
+    .simple-report-image img {
+        padding-top: 25px;
+    }
+
+    .testimonial-content {
+        padding: 50px 15px;
+    }
+
+    .testimonial-content p {
+        font-size: 14px;
+    }
+
+    .testimonial-profile img {
+        width: 80px !important;
+        top: -40px;
+        left: 30%;
+    }
+}
+
+@media only screen and (min-width: 401px) and (max-width: 575px) {
+    .mobile-show {
+        display: block;
+        padding: 6px 5px;
+        font-size: 13px;
+    }
+
+    header.header-main-wrap {
+        width: 96%;
+        margin: 0 auto;
+    }
+
+    .desktop-show {
+        display: none;
+    }
+
+    .navbar-brand img {
+        width: 115px;
+    }
+
+    .package-dec p {
+        text-align: left;
+        font-size: 13px;
+    }
+
+    .package-dec ul li {
+        font-size: 14px;
+    }
+
+    .company-logo img {
+        width: 140px;
+        margin-bottom: 30px;
+    }
+
+    .section-title h3 {
+        font-size: 24px;
+    }
+
+    .full-scan-content p {
+        font-size: 14px;
+    }
+
+    section {
+        padding: 0px 10px;
+    }
+
+    .service-card p {
+        font-size: 14px;
+    }
+
+    .counter-card .row {
+        display: block;
+        text-align: center;
+    }
+
+    .counter-card .row .col-2 {
+        width: 100%;
+    }
+
+    .counter-card .row .col-10 {
+        width: 100%;
+    }
+
+    .counter-card .card-body {
+        padding: 5px 0% 0% 30%;
+        text-align: left;
+    }
+
+    .pricing-package-info-wrap {
+        width: 50%;
+    }
+
+    .pricing-service-name {
+        width: 50%;
+        background: #f3f7fc;
+        position: relative;
+        top: -40px;
+    }
+
+    .pricing-package-info {
+        width: 90%;
+    }
+
+    .pricing-service-name ul li {
+        font-size: 12px;
+    }
+
+    .service-card h5 {
+        font-size: 18px;
+    }
+
+    .pricing-service-name ul {
+        padding-top: 0;
+    }
+
+    .package-dec img {
+        width: 24px !important;
+        margin: 0 auto;
+    }
+
+    .call-to-action-content {
+        padding: 30px 0%;
+    }
+
+    .hero-content h1 {
+        margin-bottom: 20px;
+        font-size: 18px;
+    }
+
+    .hero-content p {
+        font-size: 14px;
+    }
+
+    .simple-report-content ul li {
+        margin-bottom: 20px;
+        font-size: 14px;
+        padding-left: 35px;
+    }
+
+    .simple-report-content ul li:after {
+        top: 20%;
+    }
+
+    .call-to-action-image img {
+        width: 100%;
+        padding: 60px;
+        margin: 0 auto;
+    }
+
+    .call-to-action-image {
+        text-align: center;
+    }
+
+    .simple-report-image img {
+        padding-top: 25px;
+    }
+
+    .testimonial-content {
+        padding: 50px 15px;
+    }
+
+    .testimonial-content p {
+        font-size: 14px;
+    }
+
+    .testimonial-profile img {
+        width: 80px !important;
+        top: -40px;
+        left: 41%;
+    }
+
+    .feature-item-wrap>.row>.col-lg-3.col-md-3.col-sm-3.mb-3 {
+        display: none;
+    }
+
+    .hero-search-form input {
+        width: 70%;
+    }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 400px) {
+    .mobile-show {
+        display: block;
+        padding: 6px 5px;
+        font-size: 13px;
+    }
+
+    .hero-search-form input {
+        width: 70%;
+    }
+
+    .desktop-show {
+        display: none;
+    }
+
+    .navbar-brand img {
+        width: 115px;
+    }
+
+    header.header-main-wrap {
+        width: 96%;
+        margin: 0 auto;
+    }
+
+    .company-logo img {
+        width: 140px;
+        margin-bottom: 30px;
+    }
+
+    .section-title h3 {
+        font-size: 18px;
+    }
+
+    .package-dec p {
+        text-align: left;
+        font-size: 13px;
+    }
+
+    .package-dec ul li {
+        font-size: 12px;
+        padding: 5px 0;
+    }
+
+    .full-scan-content p {
+        font-size: 14px;
+    }
+
+    section {
+        padding: 0px 10px !important;
+    }
+
+    .service-card p {
+        font-size: 13px;
+    }
+
+    .counter-card .row {
+        display: block;
+        text-align: center;
+    }
+
+    .counter-card .row .col-2 {
+        width: 100%;
+    }
+
+    .counter-card .row .col-10 {
+        width: 100%;
+    }
+
+    .counter-card .card-body {
+        padding: 5px 0% 0% 20%;
+        text-align: left;
+    }
+
+    .pricing-package-info-wrap {
+        width: 55%;
+    }
+
+    .pricing-service-name {
+        width: 45%;
+        background: #f3f7fc;
+    }
+
+    .pricing-package-info {
+        width: 90%;
+    }
+
+    .pricing-service-name ul li {
+        font-size: 12px;
+    }
+
+    .service-card h5 {
+        font-size: 18px;
+    }
+
+    .pricing-service-name ul {
+        padding-top: 0;
+    }
+
+    .package-dec img {
+        width: 24px !important;
+        margin: 0 auto;
+    }
+
+    .call-to-action-content {
+        padding: 30px 0%;
+    }
+
+    .hero-content h1 {
+        margin-bottom: 20px;
+        font-size: 18px;
+    }
+
+    .hero-content p {
+        font-size: 14px;
+    }
+
+    .simple-report-content ul li {
+        margin-bottom: 20px;
+        font-size: 14px;
+        padding-left: 35px;
+    }
+
+    .simple-report-content ul li:after {
+        top: 20%;
+    }
+
+    .call-to-action-image img {
+        width: 100%;
+        padding: 60px;
+        margin: 0 auto;
+    }
+
+    .call-to-action-image {
+        text-align: center;
+    }
+
+    .simple-report-image img {
+        padding-top: 25px;
+    }
+
+    .testimonial-content {
+        padding: 50px 15px;
+    }
+
+    .testimonial-content p {
+        font-size: 14px;
+    }
+
+    .testimonial-profile img {
+        width: 80px !important;
+        top: -40px;
+        left: 38%;
+    }
+
+    h5.custom-price {
+        font-size: 18px;
+    }
+}
