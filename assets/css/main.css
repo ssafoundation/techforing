@@ -338,7 +338,7 @@ section {
     width: 100px !important;
     position: absolute;
     top: -50px;
-    left: 39%;
+    left: 41%;
 }
 
 .testimonial-content img {
@@ -451,6 +451,7 @@ h5.custom-price {
 
 .package-dec p {
     text-align: left;
+    font-size: 16px;
 }
 
 ul.custom-packge {
